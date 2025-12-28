@@ -1,1 +1,3 @@
-# InsectChirpRecognitionSystemRNN
+# 基于RNN的昆虫鸣叫声识别系统
+这是基于RNN的昆虫鸣叫声识别系统的项目代码，为公开学习资料
+如果被用于学术论文，则为抄袭，学术不端
